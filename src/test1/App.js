@@ -13,7 +13,9 @@ function App() {
         <>
             {/* <h1>Welcome to React with {name} {bool} {arr} {printf()}</h1>
             <h2>Thanks</h2> */}
-            <Student/>
+            <Student firstName="hesh" age="25" country="SL"/>
+            <Student firstName="hesh1" age="24" country="SG"/>
+            <Student firstName="hesh2" age="27" country="UK"/>
         </>
     );
     //jsx only support only one parent, you cannot <h1></h1><h1></h1>
