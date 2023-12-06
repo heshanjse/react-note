@@ -1,4 +1,5 @@
 import Student from "./Student";
+import './MyStyles.css'
 function App() {
     let name = "Hesh";
     let bool = true;
