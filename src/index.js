@@ -1,9 +1,12 @@
 import React, { Fragment } from "react"
 import ReactDOM from "react-dom/client"
-import App from "./test1/App";
+// import App from "./test1/App";
 // import App from "./test2/App";
 // import App from "./test3/App";
 // import App from "./test4/App";
+// import App from "./test5/App";
+// import App from "./test6/App";
+import App from "./test7/App";
 
 let el = document.getElementById("root");
 const root = ReactDOM.createRoot(el);
